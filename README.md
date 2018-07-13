@@ -41,7 +41,9 @@ Abaixo podemos ver uma foto do robô já montado:
 
 ![](img/Gyniu_vs_Colmeia.gif)
 
-Em um contexto geral o robô conseguiu cumprir com a maioria dos seus objetivos de forma autônoma, não saiu do dojô sozinho e conseguiu vencer algumas lutas. O principal desafio apresentado foi com relação à altura do robô, por conta da limitação de área imposta pela competição e pelo fato de os hardwares utilizados ocuparem uma àrea relativamente grande, a altura em que o robô ficou o deixou muito instável com relação movimentos bruscos acarretando assim algumas quedas.   
+Em um contexto geral o robô conseguiu cumprir com a maioria dos seus objetivos de forma autônoma, não saiu do dojô sozinho e conseguiu vencer algumas lutas. O principal desafio apresentado foi com relação à altura do robô, por conta da limitação de área imposta pela competição e pelo fato de os hardwares utilizados ocuparem uma àrea relativamente grande, a altura em que o robô ficou o deixou muito instável com relação movimentos bruscos acarretando assim algumas quedas. O caixa de redução utilizada não a mais apropriada pois quanto maior é a rotação menor é o torque e por conta disso tivemos muita dificuldade para conseguir empurrar alguns advesários.
+
+Para a versão 2.0 tentaremos sanar todas as dificuldades encontradas para chegar na competição com o maior nível de competitividade o possível deixando as disputas ainda mais acirradas, é com competições deste porte que a comunidade acadêmica.    
 
 Neste [link](https://www.youtube.com/watch?v=NO75CmzcxgI&list=PLWZrpNc7OyMwNlyV_De-JO6rOj_Rl_izD&t=0s&index=2) têm alguns videos da competição.
 
